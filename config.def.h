@@ -32,7 +32,7 @@ static const char *prompt =
  * 9. tomorrow-night.h
  * 10. city-lights.h
  */
-#include "colors/nord.h"
+#include "colors/gruvbox-dark.h"
 
 /* -l and -g options; controls number of lines and columns in grid if > 0 */
 static unsigned int lines = 0;
